@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+  <style>
+    body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "Comic Sans MS"
+    }
+    .myDiv {
+    width: 50%;
+    border: 5px outset #78468d;
+    background-color: #261f47;
+    text-align: center;
+    }
+  </style>
+  
+  <head>
+    <link rel="shortcut icon" href="images/favicon.ico">
+    
+    <title>
+       grimace is coming
+    </title>
+    
+  </head>
+  
+  <center>
+  
+  <body>
+    <body background="/images/grimacegrove.gif">
+    
+        <audio autoplay loop src="https://trashcam.org/music/GrimshakerMidi.mp3"> </audio>
+  
+   <p> grimace is coming </p>
+  
+  </body>
+  
+  </center>
+  
+</html>
